@@ -1,4 +1,4 @@
-[![Andrew Rossignol, 2020](res/about/aarossig_photo_2020_s.jpg)](res/about/aarossig_photo_2020.jpg)
+[![Andrew Rossignol, 2020](res/about/aarossig_photo_2020_s.jpg#floatleft)](res/about/aarossig_photo_2020.jpg)
 
 ## About
 
@@ -23,16 +23,14 @@ work with my hands and coordinate youth activities over the years.
 
 I love working with technology and am a generalist. I have worked on everything
 from embedded systems to business automation web applications and everything
-in between.
-
-<br>
-
-[![Andrew at Google 2014](res/about/aarossig_google_2014_m.jpg)](res/about/aarossig_google_2014.jpg)
+in between.<br>
 
 ### Google
 
 I have been working for Google since June 2014 and have contributed to a number
 of exciting projects since then.
+
+[![Andrew at Google 2014](res/about/aarossig_google_2014_m.jpg#floatright)](res/about/aarossig_google_2014.jpg)
 
 #### Jamboard
 
@@ -43,11 +41,9 @@ opportunities for performance optimizations in the rendering stack.
 
 I developed the first integration with Google's video conferencing solution
 known as GVC. This was a self-motivated weekend hackathon and later went on
-to become a core feature of the product.
+to become a core feature of the product.<br>
 
-<br>
-
-[![Android Oreo Oreos](res/about/android_oreo_m.jpg)](res/about/android_oreo.jpg)
+[![Android Oreo Oreos](res/about/android_oreo_m.jpg#floatleft)](res/about/android_oreo.jpg)
 
 #### Android
 
@@ -59,11 +55,9 @@ power consumption by a factor of 10. This was adopted by other vendors.
 
 As part of the sensor hub project, a new platform known as Context Hub was
 designed to standardize the APIs available to algorithms running on low-power
-sensor processors.
+sensor processors.<br>
 
-<br>
-
-[![Norwegian Fjorde](res/about/norway_fjorde_m.jpg)](res/about/norway_fjorde.jpg)
+[![Norwegian Fjorde](res/about/norway_fjorde_m.jpg#floatright)](res/about/norway_fjorde.jpg)
 
 #### Tidal
 
@@ -77,8 +71,6 @@ One of my more prominent contributions was a complete realtime firmware solution
 responsible for power monitoring, sensor readout and realime control over motors
 and lights attached to the system.
 
-<br>
-
 #### gChips
 
 In December of 2021, I decided to leave Tidal to spend more time working closely
@@ -86,9 +78,9 @@ with embedded systems and accepted a role as lead of the Image Signal Processor
 (ISP) Silicon Validation (SiVal) team. This team is responsible for validating
 the design of the ISP used in the Tensor SoC. This covers a large body  of work
 including part characterization, pre-silicon emulation and working with hardened
-complex algorithms to validate their correctness and performance.
+complex algorithms to validate their correctness and performance.<br>
 
-[![Deltabot Debug](res/about/deltabot_debug_m.jpg)](res/about/deltabot_debug.jpg)
+[![Deltabot Debug](res/about/deltabot_debug_m.jpg#floatleft)](res/about/deltabot_debug.jpg)
 
 ### L-3 WESCAM
 
@@ -104,5 +96,5 @@ huge financial savings for the company.
 
 Once MES was feature complete, I turned my attention to a number of other
 business applications including Shipment Management System (SMS) to manage the
-shipping/reeiving dock and AssetTracker to track tool calibration on the
-production line.
+shipping/receiving dock and AssetTracker to track tool calibration on the
+production line.<br>

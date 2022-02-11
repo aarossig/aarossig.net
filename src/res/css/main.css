@@ -9,16 +9,20 @@ hr {
   border: none;
   background-color: #fff;
   height: 1px;
-  clear: left;
+}
+
+img[src*="#floatleft"] {
+  float: left;
+  margin-right: 0.5em;
+}
+
+img[src*="#floatright"] {
+  float: right;
+  margin-left: 0.5em;
 }
 
 br {
-  clear: left;
-}
-
-img {
-  float: left;
-  margin: 0 0.5em 0 0;
+  clear: both;
 }
 
 a {
