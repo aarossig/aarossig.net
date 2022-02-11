@@ -56,6 +56,7 @@ $(OUT)/merged/%.md: %.md src/header.html src/header.md \
 	cat src/footer.md >> $@
 	sed -i 's/_WEBVAR_CURRENT_YEAR_/$(WEBVAR_CURRENT_YEAR)/g' $@
 	sed -i 's/_WEBVAR_CURRENT_DATETIME_/$(WEBVAR_CURRENT_DATETIME)/g' $@
+	sed -i "s/_WEBVAR_PAGE_LAST_MODIFIED_/$$(date -d @$$(git log -1 --pretty='format:%at' $<))/g" $@
 
 # Generate HTML files.
 $(HTML_OUT): $(OUT)/www/%.html: $(OUT)/merged/src/%.md

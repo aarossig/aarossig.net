@@ -1,5 +1,7 @@
 <hr>
 
+Page Last Updated: _WEBVAR_PAGE_LAST_MODIFIED_
+
 Site Last Updated: _WEBVAR_CURRENT_DATETIME_
 
 Copyright _WEBVAR_CURRENT_YEAR_, Andrew Rossignol
