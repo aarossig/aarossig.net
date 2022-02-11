@@ -1,10 +1,10 @@
 <hr>
 
-Page Last Updated: _WEBVAR_PAGE_LAST_MODIFIED_
+Page Last Updated: WEBVAR-PAGE-LAST-MODIFIED
 
-Site Last Updated: _WEBVAR_CURRENT_DATETIME_
+Site Last Updated: WEBVAR-CURRENT-DATETIME
 
-Copyright _WEBVAR_CURRENT_YEAR_, Andrew Rossignol
+Copyright WEBVAR-CURRENT-YEAR, Andrew Rossignol
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
   <img alt="Creative Commons License" style="border-width:0"

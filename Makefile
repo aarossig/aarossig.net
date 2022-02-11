@@ -6,11 +6,13 @@
 
 # List of markdown files to generate pages for.
 MARKDOWN = src/about.md \
-		src/index.md
+		src/index.md \
+		src/links.md
 
 # Page titles.
 TITLE_about = about
 TITLE_index = home
+TITLE_links = links
 
 # List of images to bundle into the output.
 IMG = src/res/about/aarossig_google_2014.jpg \
@@ -46,25 +48,25 @@ IMG_OUT = $(patsubst src/%, $(OUT)/www/%, $(IMG))
 RES_OUT = $(patsubst src/%, $(OUT)/www/%, $(RES))
 
 # Process each markdown file.
-$(OUT)/merged/%.md: %.md src/header.html src/header.md \
-										src/footer.md src/footer.html
+$(OUT)/merged/%.md: %.md src/header.md src/footer.md
 	mkdir -p $(dir $@)
 	cat src/header.md > $@
 	echo >> $@
 	cat $< >> $@
 	echo >> $@
 	cat src/footer.md >> $@
-	sed -i 's/_WEBVAR_CURRENT_YEAR_/$(WEBVAR_CURRENT_YEAR)/g' $@
-	sed -i 's/_WEBVAR_CURRENT_DATETIME_/$(WEBVAR_CURRENT_DATETIME)/g' $@
-	sed -i "s/_WEBVAR_PAGE_LAST_MODIFIED_/$$(date -d @$$(git log -1 --pretty='format:%at' $<))/g" $@
+	sed -i 's/WEBVAR-CURRENT-YEAR/$(WEBVAR_CURRENT_YEAR)/g' $@
+	sed -i 's/WEBVAR-CURRENT-DATETIME/$(WEBVAR_CURRENT_DATETIME)/g' $@
+	sed -i "s/WEBVAR-PAGE-LAST-MODIFIED/$$(date -d @$$(git log -1 --pretty='format:%at' $<))/g" $@
 
 # Generate HTML files.
-$(HTML_OUT): $(OUT)/www/%.html: $(OUT)/merged/src/%.md
+$(HTML_OUT): $(OUT)/www/%.html: $(OUT)/merged/src/%.md src/header.html \
+	                              src/footer.html src/res/css/main.css
 	mkdir -p $(dir $@)
 	cat src/header.html > $@
 	markdown --html4tags $< >> $@
 	cat src/footer.html >> $@
-	sed -i 's/_WEBVAR_TITLE_/$(TITLE_$(patsubst %.html,%,$(notdir $@)))/g' $@
+	sed -i 's/WEBVAR-TITLE/$(TITLE_$(patsubst %.html,%,$(notdir $@)))/g' $@
 
 # Stage images.
 $(IMG_OUT): $(OUT)/www/%: src/%

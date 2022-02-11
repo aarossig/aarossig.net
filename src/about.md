@@ -4,6 +4,17 @@
 
 My name is Andrew Rossignol and I am a Staff Software Engineer at Google.
 
+## Hobbies
+
+I have too many hobbies. I enjoy spending time tinkering with vintage audio,
+lithium batteries, electric vehicles, 3D printing, electronics, embedded software,
+Linux servers, and more.
+
+As a creative outlet, I maintain a blog called [TheResistorNetwork](http://theresistornetwork.com) and companion [YouTube channel](http://youtube.com/c/TheResistorNetwork).
+When I decide that a project is large or interesting enough to warrant a blog
+post, I will post over there. This website captures smaller projects, one-liners,
+photos of interesting projects and more.
+
 ## Career
 
 I have held a number of jobs over the years. Most of those jobs have been
