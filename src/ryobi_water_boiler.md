@@ -25,7 +25,7 @@ batteries to full, boiled 500mL of water until the auto-shutoff kicked in, then
 let the batteries rest for 10 minutes before measuring the terminal voltage. I
 rinsed the pot with cold water between tests.
 
-I measured energy consumption with this [inline power meter](https://www.amazon.com/gp/product/B07GB71YSB/).
+I measured energy consumption with this [inline power meter](https://www.amazon.com/gp/product/B07GB71YSB/).<br>
 
 As demonstrated below, boil time decreases significantly with increase in
 battery capacity. This is due to a more efficient discharge for each battery
