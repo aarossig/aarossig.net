@@ -80,10 +80,6 @@ even better performnace.<br>
   </tr>
 </table>
 
-[![Tea](res/projects/ryobi/tea_mug_s.jpg#floatleft)](res/projects/ryobi/tea_mug.jpg)
-
-Never fear about wasted water. I made plenty of tea for everyone with this setup.<br>
-
 ### Kettle
 
 [![12/24V Kettle](res/projects/ryobi/kettle_m.jpg#floatleft)](res/projects/ryobi/kettle.jpg)
@@ -108,8 +104,12 @@ to the hot heating elements. I also replaced the 12V automotive power plug with
 an XT60 connector. I upgraded the 12V automotive power socket to use 12AWG cable
 and mating XT60 connector so that the kettle can still be used in the car.<br>
 
+[![Tea](res/projects/ryobi/tea_mug_m.jpg#floatleft)](res/projects/ryobi/tea_mug.jpg)
+
 ### Conclusion
 
 This will work just fine. The larger packs should be able to boil 1-2L of water
 without depleting their charge and then continue to have energy left for
 low-power tools like a flashlight. Overall, this mission was a success.
+
+Never fear about wasted water. I made plenty of tea for everyone with this setup.<br>

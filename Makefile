@@ -13,12 +13,12 @@ MARKDOWN = src/about.md \
 		src/ryobi_water_boiler.md
 
 # Page titles.
-TITLE_about = "about"
-TITLE_index = "home"
-TITLE_links = "links"
-TITLE_projects = "projects"
-TITLE_ryobi_index = "ryobi tools/batteries"
-TITLE_ryobi_water_boiler = "ryobi water boiler"
+TITLE_about = about
+TITLE_index = home
+TITLE_links = links
+TITLE_projects = projects
+TITLE_ryobi_index = ryobi tools/batteries
+TITLE_ryobi_water_boiler = ryobi water boiler
 
 # List of images to bundle into the output.
 IMG = src/res/about/aarossig_google_2014.jpg \
