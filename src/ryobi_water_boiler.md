@@ -57,7 +57,7 @@ even better performnace.<br>
   <tr>
     <td>
 
-[![PBP004](res/projects/ryobi/PBP007_s.jpg#floatleft)](res/projects/ryobi/PBP007.jpg)
+[![PBP007](res/projects/ryobi/PBP007_s.jpg#floatleft)](res/projects/ryobi/PBP007.jpg)
     </td>
     <td>PBP007</td>
     <td>6AH/108Wh</td>

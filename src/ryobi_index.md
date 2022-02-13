@@ -1,3 +1,5 @@
+[![PBP007](res/projects/ryobi/PBP007_m.jpg#floatleft)](res/projects/ryobi/PBP007.jpg)
+
 ## Ryobi Tools/Batteries
 
 I have recently become interested in the Ryobi line of tools that are based on
@@ -7,7 +9,7 @@ around the home, portable at a campsite and during a power outage. In addition
 to these tools, Ryobi offers power source devices that offer USB charging and
 even 120VAC output. The utility of this unified framework of tools and batteries
 has a lot of benefits. A common battery platform allows the tools to be offered
-at a much lower price.
+at a much lower price.<br>
 
 ### DIY Accessories
 
