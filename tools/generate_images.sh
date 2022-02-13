@@ -33,6 +33,7 @@ generate_image() {
 
 # Resize images into different sizes if needed.
 cp "${INPUT_IMAGE}" "${OUT_DIR}"
+generate_image "80" "xs" &
 generate_image "160" "s" &
 generate_image "320" "m" &
 generate_image "480" "l" &

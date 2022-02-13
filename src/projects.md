@@ -2,4 +2,5 @@
 
 Here are some projects that I have worked on.
 
-* [Ryobi Batteries](ryobi_batteries.html)
+* [Ryobi Tools/Batteries](ryobi_index.html)
+  * [Water Boiler](ryobi_water_boiler.html)

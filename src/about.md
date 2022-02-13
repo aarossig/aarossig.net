@@ -10,10 +10,11 @@ I have too many hobbies. I enjoy spending time tinkering with vintage audio,
 lithium batteries, electric vehicles, 3D printing, electronics, embedded software,
 Linux servers, and more.
 
-As a creative outlet, I maintain a blog called [TheResistorNetwork](http://theresistornetwork.com) and companion [YouTube channel](http://youtube.com/c/TheResistorNetwork).
+As a creative outlet, I maintain a blog called [TheResistorNetwork](http://theresistornetwork.com)
+and companion [YouTube channel](http://youtube.com/c/TheResistorNetwork).
 When I decide that a project is large or interesting enough to warrant a blog
 post, I will post over there. This website captures smaller projects, one-liners,
-photos of interesting projects and more.
+photos of interesting projects and more.<br>
 
 ## Career
 
@@ -25,12 +26,12 @@ I love working with technology and am a generalist. I have worked on everything
 from embedded systems to business automation web applications and everything
 in between.<br>
 
+[![Andrew at Google 2014](res/about/aarossig_google_2014_m.jpg#floatright)](res/about/aarossig_google_2014.jpg)
+
 ### Google
 
 I have been working for Google since June 2014 and have contributed to a number
 of exciting projects since then.
-
-[![Andrew at Google 2014](res/about/aarossig_google_2014_m.jpg#floatright)](res/about/aarossig_google_2014.jpg)
 
 #### Jamboard
 
