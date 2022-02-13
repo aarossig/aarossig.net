@@ -10,5 +10,5 @@ and others are links to friends or just generally interesting pages.
 
 ### Friends
 
-* [Alex Stan, HyperTriangle](http://hypertriangle.com)
+* [Alex Stan, HyperTriangle](http://hypertriangle.com/~alex)
 * [Ryan Heacock, Fabrik8](https://fabrik8.xyz/)
