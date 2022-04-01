@@ -71,6 +71,8 @@ $(HTML_OUT): $(OUT)/www/%.html: src/%.md src/header.html src/header.md \
 	sed -i 's/WEBVAR-CURRENT-YEAR/$(WEBVAR_CURRENT_YEAR)/g' $@
 	sed -i 's/WEBVAR-CURRENT-DATETIME/$(WEBVAR_CURRENT_DATETIME)/g' $@
 	sed -i "s/WEBVAR-PAGE-LAST-MODIFIED/$$(date -d @$$(git log -1 --pretty='format:%at' $<))/g" $@
+	git log -10 --date=format:'%a %d %b %Y %H:%M %z' --pretty=format:"<tr><td>%ad</td><td>%s</td></tr>" > $(OUT)/recent_changes.html
+	sed -i -e '/WEBVAR-LATEST-UPDATES/{r $(OUT)/recent_changes.html' -e 'd}' $@
 
 # Generate images.
 $(IMG_OUT): $(OUT)/www/%: src/%
