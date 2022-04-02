@@ -1,4 +1,4 @@
-[![Lick Observatory](res/index/lick_observatory_m.jpg#floatleft)](res/index/lick_observatory.jpg)
+<a href="res/index/lick_observatory.jpg"><img width="50%" src="res/index/lick_observatory_l.jpg#floatleft"></a>
 
 ## Home
 
