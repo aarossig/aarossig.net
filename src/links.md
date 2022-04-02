@@ -10,5 +10,10 @@ and others are links to friends or just generally interesting pages.
 
 ### Friends
 
+Some links to friends pages ordered alphabetically.
+
 * [Alex Stan, HyperTriangle](http://hypertriangle.com/~alex)
+* [Alice Gong, Waymonaut](https://www.linkedin.com/in/alicexygong/)
+* [Harrison Pham](http://hdpham.com/)
 * [Ryan Heacock, Fabrik8](https://fabrik8.xyz/)
+* [Tom Swanson](https://trswany.com/)
