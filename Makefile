@@ -28,6 +28,7 @@ IMG = src/res/about/aarossig_google_2014.jpg \
 		src/res/about/deltabot_debug.jpg \
 		src/res/about/norway_fjorde.jpg \
 		src/res/index/lick_observatory.jpg \
+    src/res/projects/retro/windows_95_dma_fix.png \
     src/res/projects/retro/windows_95_windows_folder.png \
 		src/res/projects/ryobi/kettle.jpg \
 		src/res/projects/ryobi/kettle_upgraded.jpg \
@@ -39,7 +40,8 @@ IMG = src/res/about/aarossig_google_2014.jpg \
 		src/res/projects/ryobi/P194.jpg
 
 # List of resources to bundle into the output.
-RES = src/res/css/main.css
+RES = src/res/css/main.css \
+    src/res/img/license.png
 
 # Web Variables ################################################################
 

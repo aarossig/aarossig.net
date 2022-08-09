@@ -31,10 +31,14 @@ br {
 a {
   color: #fff;
   text-decoration: underline;
+  border: none;
+  outline: none;
 }
 
 img, h1, h2, h3, h4 {
   margin: 0;
+  border: none;
+  outline: none;
 }
 
 h1 {
