@@ -11,7 +11,7 @@ Windows 9x based virtual machines under QEMU.<br>
 
 #### KVM Compatibility
 
-Windows 95 will hang if shutdown in a KVM environment. In order to prevent this,
+Windows 9x will hang if shutdown in a KVM environment. In order to prevent this,
 disable the shutdown logo by renaming `C:\WINDOWS\LOGOW.SYS` to another name
 such as `C:\WINDOWS\LOGOW.SYS.BAK` or just remove it.<br>
 
@@ -21,5 +21,5 @@ such as `C:\WINDOWS\LOGOW.SYS.BAK` or just remove it.<br>
 
 #### Disk Drive Performance
 
-Windows 95 will run very poorly with the default disk drivers. In order to
+Windows 9x will run very poorly with the default disk drivers. In order to
 improve performance, enable `DMA` mode.<br>
