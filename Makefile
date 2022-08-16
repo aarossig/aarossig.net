@@ -10,6 +10,7 @@ MARKDOWN = src/about.md \
 		src/links.md \
 		src/projects.md \
 		src/retro_computing.md \
+		src/retro_computing_windows_9x.md \
 		src/ryobi_index.md \
 		src/ryobi_water_boiler.md
 
@@ -28,6 +29,7 @@ IMG = src/res/about/aarossig_google_2014.jpg \
 		src/res/about/deltabot_debug.jpg \
 		src/res/about/norway_fjorde.jpg \
 		src/res/index/lick_observatory.jpg \
+		src/res/projects/retro/retro_computer_desk_photo.jpg \
     src/res/projects/retro/windows_95_dma_fix.png \
     src/res/projects/retro/windows_95_windows_folder.png \
 		src/res/projects/ryobi/kettle.jpg \

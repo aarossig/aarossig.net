@@ -38,4 +38,5 @@ generate_image "160" "s" &
 generate_image "320" "m" &
 generate_image "480" "l" &
 generate_image "640" "xl" &
+generate_image "1280" "xxl" &
 wait
