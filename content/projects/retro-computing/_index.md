@@ -1,7 +1,6 @@
 ---
 title: "retro computing"
 date: 2022-10-15T12:40:02-07:00
-draft: true
 ---
 
 These are some notes from my retro computing setup. I became interested in

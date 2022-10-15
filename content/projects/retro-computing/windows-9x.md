@@ -1,7 +1,6 @@
 ---
 title: "windows 9x"
 date: 2022-10-15T12:43:00-07:00
-draft: true
 ---
 
 Here are some configuration/setup tricks that I have used while configuring

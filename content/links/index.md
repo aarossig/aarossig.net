@@ -1,7 +1,6 @@
 ---
 title: "links"
 date: 2022-10-15T01:17:41-07:00
-draft: true
 ---
 
 ## TheResistorNetwork
