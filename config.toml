@@ -1,0 +1,68 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "risotto"
+
+[menu]
+
+[params]
+  contentTypeName = "home"
+  showLanguageSelector = false
+
+  [params.about]
+    title = "aarossig"
+    description = "My personal homepage."
+    logo = "images/about/aarossig-avatar.jpg"
+
+  [[params.socialLinks]]
+    icon = "fa-brands fa-youtube"
+    title = "YouTube"
+    url = "https://youtube.com/c/TheResistorNetwork"
+
+  [[params.socialLinks]]
+    icon = "fa-brands fa-blogger"
+    title = "Blogger"
+    url = "http://theresistornetwork.com"
+
+  [[params.socialLinks]]
+    icon = "fa-brands fa-github"
+    title = "GitHub"
+    url = "https://github.com/aarossig"
+
+  [[params.socialLinks]]
+    icon = "fa-brands fa-linkedin"
+    title = "LinkedIn"
+    url = "https://linkedin.com/in/aarossig"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "aarossig"
+
+  [languages.en.params.logo]
+    logoText = "aarossig"
+    logoHomeLink = "/"
+
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name  = "about"
+      url = "/about"
+      weight = 150
+    
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "home"
+      url = "/"
+      weight = 100
+
+    [[languages.en.menu.main]]
+      identifier = "links"
+      name = "links"
+      url = "/links"
+      weight = 200
+
+    [[languages.en.menu.main]]
+      identifier = "projects"
+      name = "projects"
+      url = "/projects"
+      weight = 180

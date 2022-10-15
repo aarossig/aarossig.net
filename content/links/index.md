@@ -1,14 +1,21 @@
-## Links
+---
+title: "links"
+date: 2022-10-15T01:17:41-07:00
+draft: true
+---
 
-The following are some useful links. Some are links to my own online presence
-and others are links to friends or just generally interesting pages.
+## TheResistorNetwork
 
-### TheResistorNetwork
+I maintain a YouTube channel and blog to showcase projects known as
+TheResistorNetwork. These projects generally reach a higher level of polish.
 
 * [Blog](http://theresistornetwork.com)
 * [YouTube Channel](http://youtube.com/c/theresistornetwork)
 
-### Friends
+{{< image src="images/links/theresistornetwork-header.png"
+    alt="TheResistorNetwork" >}}
+
+## Friends
 
 Some links to friends pages ordered alphabetically.
 

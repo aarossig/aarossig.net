@@ -1,6 +1,8 @@
-[![Andrew Rossignol, 2020](res/about/aarossig_photo_2020_s.jpg#floatleft)](res/about/aarossig_photo_2020.jpg)
-
-## About
+---
+title: "about"
+date: 2022-10-15T00:08:21-07:00
+draft: true
+---
 
 My name is Andrew Rossignol and I am a Staff Software Engineer at Google.
 
@@ -14,7 +16,10 @@ As a creative outlet, I maintain a blog called [TheResistorNetwork](http://there
 and companion [YouTube channel](http://youtube.com/c/TheResistorNetwork).
 When I decide that a project is large or interesting enough to warrant a blog
 post, I will post over there. This website captures smaller projects, one-liners,
-photos of interesting projects and more.<br>
+photos of interesting projects and more.
+
+{{< image src="images/about/aarossig-workshop.jpg"
+    alt="My personal workshop, restoring a vintage PC" >}}
 
 ## Career
 
@@ -24,14 +29,15 @@ work with my hands and coordinate youth activities over the years.
 
 I love working with technology and am a generalist. I have worked on everything
 from embedded systems to business automation web applications and everything
-in between.<br>
-
-[![Andrew at Google 2014](res/about/aarossig_google_2014_m.jpg#floatright)](res/about/aarossig_google_2014.jpg)
+in between.
 
 ### Google
 
 I have been working for Google since June 2014 and have contributed to a number
 of exciting projects since then.
+
+{{< image src="images/about/aarossig-google-2014.jpg"
+    alt="Visiting Google in 2014 for interviews" >}}
 
 #### Jamboard
 
@@ -42,9 +48,7 @@ opportunities for performance optimizations in the rendering stack.
 
 I developed the first integration with Google's video conferencing solution
 known as GVC. This was a self-motivated weekend hackathon and later went on
-to become a core feature of the product.<br>
-
-[![Android Oreo Oreos](res/about/android_oreo_m.jpg#floatleft)](res/about/android_oreo.jpg)
+to become a core feature of the product.
 
 #### Android
 
@@ -56,9 +60,10 @@ power consumption by a factor of 10. This was adopted by other vendors.
 
 As part of the sensor hub project, a new platform known as Context Hub was
 designed to standardize the APIs available to algorithms running on low-power
-sensor processors.<br>
+sensor processors.
 
-[![Norwegian Fjorde](res/about/norway_fjorde_m.jpg#floatright)](res/about/norway_fjorde.jpg)
+{{< image src="images/about/android-oreo.jpg"
+    alt="Celebrating Android Oreo launch with themed cookies" >}}
 
 #### Tidal
 
@@ -72,6 +77,9 @@ One of my more prominent contributions was a complete realtime firmware solution
 responsible for power monitoring, sensor readout and realime control over motors
 and lights attached to the system.
 
+{{< image src="images/about/norway-fjorde.jpg"
+    alt="Installing hardware in a Fjorde" >}}
+
 #### gChips
 
 In December of 2021, I decided to leave Tidal to spend more time working closely
@@ -79,9 +87,7 @@ with embedded systems and accepted a role as lead of the Image Signal Processor
 (ISP) Silicon Validation (SiVal) team. This team is responsible for validating
 the design of the ISP used in the Tensor SoC. This covers a large body  of work
 including part characterization, pre-silicon emulation and working with hardened
-complex algorithms to validate their correctness and performance.<br>
-
-[![Deltabot Debug](res/about/deltabot_debug_m.jpg#floatleft)](res/about/deltabot_debug.jpg)
+complex algorithms to validate their correctness and performance.
 
 ### L-3 WESCAM
 
@@ -98,4 +104,7 @@ huge financial savings for the company.
 Once MES was feature complete, I turned my attention to a number of other
 business applications including Shipment Management System (SMS) to manage the
 shipping/receiving dock and AssetTracker to track tool calibration on the
-production line.<br>
+production line.
+
+{{< image src="images/about/aarossig-deltabot-debug.jpg"
+    alt="Debugging a deltabot" >}}

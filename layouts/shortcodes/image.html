@@ -1,0 +1,9 @@
+{{ $image := resources.GetMatch (.Get "src") }}
+
+<figure>
+  <a href="{{ ($image).RelPermalink }}">
+    <img src="{{ ($image.Resize "1280x").RelPermalink }}"
+      {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{end}}>
+  </a>
+  <figcaption>{{ with .Get "alt" }}{{.}}{{end}}</figcaption>
+</figure>

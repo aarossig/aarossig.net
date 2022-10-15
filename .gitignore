@@ -1,3 +1,7 @@
-out/
+/.hugo_build.lock
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 *.swp
 *.swo
