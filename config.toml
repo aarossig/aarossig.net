@@ -2,7 +2,13 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "risotto"
 
-[menu]
+sectionPagesMenu = "main"
+
+[taxonomies]
+  photos = 'photo'
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'
 
 [params]
   contentTypeName = "home"
@@ -60,6 +66,12 @@ theme = "risotto"
       name = "links"
       url = "/links"
       weight = 200
+
+    [[languages.en.menu.main]]
+      identifier = "photography"
+      name = "photography"
+      url = "/photography"
+      weight = 160
 
     [[languages.en.menu.main]]
       identifier = "projects"
