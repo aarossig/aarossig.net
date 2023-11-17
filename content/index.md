@@ -1,6 +1,6 @@
 ---
 title: "home"
-date: 2022-10-15T00:12:15-07:00
+date: 2023-11-17T09:59:08-08:00
 ---
 
 Welcome to aarossig.net. This is my personal homepage where I share a little

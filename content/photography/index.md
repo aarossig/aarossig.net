@@ -1,6 +1,6 @@
 ---
 title: "photography"
-date: 2022-10-15T13:02:08-07:00
+date: 2023-11-17T09:59:08-08:00
 ---
 
 I am interested in (photo|video)graphy. I am often more of a gear nerd than an

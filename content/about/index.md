@@ -1,6 +1,6 @@
 ---
 title: "about"
-date: 2022-10-15T00:08:21-07:00
+date: 2023-11-17T09:59:08-08:00
 ---
 
 My name is Andrew Rossignol and I am a Staff Software Engineer at Google.
