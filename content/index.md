@@ -3,8 +3,6 @@ title: "home"
 date: 2022-10-15T00:12:15-07:00
 ---
 
-# home
-
 Welcome to aarossig.net. This is my personal homepage where I share a little
 about myself, document projects and aggregate links to my other online presence.
 

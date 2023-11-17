@@ -83,10 +83,13 @@ and lights attached to the system.
 
 In December of 2021, I decided to leave Tidal to spend more time working closely
 with embedded systems and accepted a role as lead of the Image Signal Processor
-(ISP) Silicon Validation (SiVal) team. This team is responsible for validating
-the design of the ISP used in the Tensor SoC. This covers a large body  of work
+Silicon Validation (ISP SiVal) team. This team is responsible for validating
+the design of the ISP used in the Tensor SoC. This covers a large body of work
 including part characterization, pre-silicon emulation and working with hardened
 complex algorithms to validate their correctness and performance.
+
+The charter has grown to become the Multimedia Silicon Validation (MM SiVal)
+team which includes Codecs, Camera, TPU and Display subsystems.
 
 ### L-3 WESCAM
 

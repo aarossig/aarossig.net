@@ -12,10 +12,11 @@ moments.
 ## Background
 
 I have worked with imaging sensors for a good deal of my career both in a
-professional and hobby capacity. I wrote a [driver](http://www.theresistornetwork.com/2014/11/flir-lepton-thermal-imaging-sensor.html)
-for the first Flir Lepton thermal imaging sensor back in 2014, developed
-underwater imaging solutions at Google X for 3 years from early 2019 to late
-2021 and since early 2022 lead an ISP (image sensor processor) validation team.
+professional and hobby capacity. Back in 2014, I wrote a [driver](http://www.theresistornetwork.com/2014/11/flir-lepton-thermal-imaging-sensor.html)
+for the first Flir Lepton thermal imaging sensor. I developed underwater imaging
+imaging solutions at Google X for 3 years from early 2019 to late 2021. Since
+early 2022, I lead the Multimedia Silicon Validation team which
+includes the ISP (image signal processor).
 
 {{< image src="images/photography/flir-lepton-camera.jpg"
     alt="Flir Lepton camera" >}}
